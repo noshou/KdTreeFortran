@@ -150,7 +150,6 @@ submodule(NdTreeFortran) QuOcTreeRnn
                         stack(stackTop) = nodePool(node)%children(c)
                     end if
                 end do
-
             end do
         end subroutine addSubtree
 
